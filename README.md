@@ -1,0 +1,1 @@
+Just learning React, this repo is the end result of me doing the great tutorial found here: https://github.com/verekia/js-stack-from-scratch
